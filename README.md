@@ -84,9 +84,9 @@ To run this project, you will need to add the following environment variables to
 
 ## Tech Stack
 
-**Client:** React, , TailwindCSS , ReactNative , expo , Cloudinary , FireBase,NativeBase
+**Client:** React, , TailwindCSS , ReactNative , expo , Cloudinary , FireBase, NativeBase, socketIO
 
-**Server:** Node, Express,Postgresql
+**Server:** Node, Express, Postgresql, MongoDB
 
 **Admin:** NextJS , TypeScript , Bootstrap
 
